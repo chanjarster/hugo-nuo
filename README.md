@@ -203,7 +203,7 @@ weight: 40
 ---
 ```
 
-The links page read data from `data/link.yml` file, now you can add friend's links there. The format looks like:
+The links page read data from `data/links.yml` file, now you can add friend's links there. The format looks like:
 
 ```yaml
 01_link:
